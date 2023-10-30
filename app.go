@@ -23,7 +23,6 @@ func main() {
 		data := map[string]string{
 			"Region": os.Getenv("FLY_REGION"),
 		}
-
 		t.ExecuteTemplate(w, "index.html.tmpl", data)
 	})
 

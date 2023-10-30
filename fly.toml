@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for proud-frost-5645 on 2023-10-30T09:04:58-03:00
+# fly.toml app configuration file generated for red-paper-8057 on 2023-10-30T09:33:54-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "proud-frost-5645"
+app = "red-paper-8057"
 primary_region = "gru"
 
 [build]
