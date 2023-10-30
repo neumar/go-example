@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for silent-haze-1191 on 2023-10-30T08:45:32-03:00
+# fly.toml app configuration file generated for lingering-sky-3003 on 2023-10-30T09:01:25-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "silent-haze-1191"
+app = "lingering-sky-3003"
 primary_region = "gru"
 
 [build]
