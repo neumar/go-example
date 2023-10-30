@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for lingering-sky-3003 on 2023-10-30T09:01:25-03:00
+# fly.toml app configuration file generated for proud-frost-5645 on 2023-10-30T09:04:58-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "lingering-sky-3003"
+app = "proud-frost-5645"
 primary_region = "gru"
 
 [build]
